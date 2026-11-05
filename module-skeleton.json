@@ -1,0 +1,15 @@
+{
+  "repository": "module-genealogy-research-react-native",
+  "capabilityKey": "liberusoftware/module-genealogy-research",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-genealogy-research-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/genealogy/nextjs/research.md",
+  "presentationPlan": "projects/genealogy/react-native/research.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "genealogy"
+  ]
+}
